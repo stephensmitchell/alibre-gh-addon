@@ -1,7 +1,43 @@
-Rhino and Grasshopper integration add-on for Alibre Design
+> [!CAUTION]
+> This is a work in progress
 
-[STATUS](https://github.com/stephensmitchell/alibre-gh-addon/discussions/categories/show-and-tell)
+# alibre-gh-addon
 
-[DISCORD](https://discord.gg/caUKrFK2)
+Rhino and Grasshopper inside Alibre Design add-on
 
-[PRIVATE FORUM](https://adk.discourse.group/invites/SLMLVC2fWV)
+## Who is this for
+
+N/A
+
+## What it does
+
+N/A
+
+## How it works
+
+N/A
+
+## Known Issues
+
+N/A
+
+## Installation
+
+See Releases for the installer and portable .zip file.
+
+### Additional Resources
+
+N/A
+
+## Contribution
+
+N/A
+
+## Acknowledgment and License
+
+MIT — see license.
+
+## Credit & Citation
+
+N/A
+
